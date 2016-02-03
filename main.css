@@ -12,3 +12,7 @@ img {
     vertical-align: middle;
     float: none;
 }
+
+.features {
+  font-size: 19px;
+}
